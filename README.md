@@ -11,6 +11,7 @@
 
 ## Screenshots
 ![Login](https://user-images.githubusercontent.com/63318866/98600963-97622900-229b-11eb-9203-e80a9269ddf5.jpeg)
+![Discover](https://user-images.githubusercontent.com/63318866/98610764-9afeab80-22ad-11eb-85f1-c06966e8276d.jpeg)
 ![Search Albums](https://user-images.githubusercontent.com/63318866/98600872-77326a00-229b-11eb-83d8-e2b5bc690a62.jpeg)
 ![Music Playing](https://user-images.githubusercontent.com/63318866/98600745-481bf880-229b-11eb-96fa-becdfeaf0cf1.jpeg)
 ![Albums](https://user-images.githubusercontent.com/63318866/98601792-c5943880-229c-11eb-9523-c07c67649f07.jpeg)
